@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="TotalBill"></string>
+    <string name="NumOfPeople"></string>
+    <string name="DiscountAmount"></string>
+    <string name="TotalBillText"></string>
+    <string name="TotalBillSplitText"></string>
+    <string name="Eachperson"></string>
+    <string name="Results"></string>
+</resources>
